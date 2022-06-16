@@ -1,0 +1,2 @@
+From ISIC2018_Task1-2_Training_Input dataset 594 images were used for prediction
+Due to file size limitation, only 100 labeled images are attached in "ISIC2018_Task1-2_Training_Input_labeled_first 100 images" folder
